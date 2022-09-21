@@ -4,7 +4,7 @@
 
 Simple and stylish to use! Access FalixNodes features such as your client and game panel, help center, phpMyAdmin, status, and more all from a centralized place.
 
-[Download Now](https://falixnodes.net/desktop) <
+[Download Now](https://falixnodes.net/desktop) <br>
 [Direct Download](https://cdn.korbsstudio.com/files/downloads/falixnodes-desktop/FalixNodes-Desktop.exe)  
 
 ## FAQ 
